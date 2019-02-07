@@ -1,0 +1,3 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,tipo,contato,mensagemEsperada,Duration(ms)
+"",Phone,+551133334470,Your contact has been added!,1127.0
+"",E-mail,test2@a.br,Your contact has been added!,1079.0
